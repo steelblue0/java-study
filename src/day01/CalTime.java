@@ -1,3 +1,4 @@
+package day01;
 // CHAPTER 02 자바 프로그래밍 기초 
 // Lab 지구에서 가장 가까운 별까지의 거리 계산하기 73p
 public class CalTime {
